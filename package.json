@@ -1,16 +1,25 @@
 {
     "name": "mcje-shader-snippets",
     "displayName": "Code Snippets for MCJE Shaders",
-    "description": "Provides code snippets for Minecraft Java Edition shaders",
+    "description": "Provides code snippets for Minecraft Java Edition shaderpack development",
     "version": "0.0.1",
     "publisher": "HyperCol",
-    "engines": {
-        "vscode": "^1.46.0"
-    },
     "categories": [
         "Snippets",
         "Programming Languages"
     ],
+    "license": "LICENSE",
+    "bugs": {
+        "url": "https://github.com/HyperCol/mcje-shader-snippets/issues"
+    },
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "homepage": "https://github.com/HyperCol/mcje-shader-snippets",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HyperCol/mcje-shader-snippets.git"
+    },
     "keywords": [
         "shader",
         "Minecraft",
