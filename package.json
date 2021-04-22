@@ -1,0 +1,31 @@
+{
+    "name": "mcje-shader-snippets",
+    "displayName": "Code Snippets for MCJE Shaders",
+    "description": "Provides code snippets for Minecraft Java Edition shaders",
+    "version": "0.0.1",
+    "publisher": "HyperCol",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Snippets",
+        "Programming Languages"
+    ],
+    "keywords": [
+        "shader",
+        "Minecraft",
+        "shaderpack",
+        "snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "glsl",
+                "path": "./snippets/mcje-shader-snippets.json"
+            }
+        ]
+    },
+    "extensionDependencies": [
+        "geforcelegend.vscode-glsl"
+    ]
+}
