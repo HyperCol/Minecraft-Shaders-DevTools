@@ -2383,6 +2383,10 @@
 		"prefix": "MC_GLSL_VERSION",
 		"body": ["MC_GLSL_VERSION"]
 	},
+	"minecraft.macro.mcos": {
+		"prefix": "MC_OS_",
+		"body": ["MC_OS_"]
+	},
 	"minecraft.macro.mcoswindows": {
 		"prefix": "MC_OS_WINDOWS",
 		"body": ["MC_OS_WINDOWS"]
@@ -2398,6 +2402,14 @@
 	"minecraft.macro.mcosother": {
 		"prefix": "MC_OS_OTHER",
 		"body": ["MC_OS_OTHER"]
+	},
+	"minecraft.macro.mcGl": {
+		"prefix": "MC_GL_",
+		"body": ["MC_GL_"]
+	},
+	"minecraft.macro.mcGlVendor": {
+		"prefix": "MC_GL_VENDOR_",
+		"body": ["MC_GL_VENDOR_"]
 	},
 	"minecraft.macro.mcGlVendorAMD": {
 		"prefix": "MC_GL_VENDOR_AMD",
@@ -2422,6 +2434,10 @@
 	"minecraft.macro.mcGlVendorOTHER": {
 		"prefix": "MC_GL_VENDOR_OTHER",
 		"body": ["MC_GL_VENDOR_OTHER"]
+	},
+	"minecraft.macro.mcGlDriver": {
+		"prefix": "MC_GL_DRIVER_",
+		"body": ["MC_GL_DRIVER_"]
 	},
 	"minecraft.macro.mcGlDriverRADEON": {
 		"prefix": "MC_GL_DRIVER_RADEON",
@@ -2505,6 +2521,10 @@
 		"prefix": "MC_TEXTURE_FORMAT_LAB_PBR_1_3",
 		"body": ["MC_TEXTURE_FORMAT_LAB_PBR_1_3"],
 		"description": "Version 1.3"
+	},
+	"minecraft.macro.mcRenderStage": {
+		"prefix": "MC_RENDER_STAGE_",
+		"body": ["MC_RENDER_STAGE_"]
 	},
 	"minecraft.macro.mcRenderStageNONE": {
 		"prefix": "MC_RENDER_STAGE_NONE",
