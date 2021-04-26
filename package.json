@@ -1,7 +1,7 @@
 {
-    "name": "mcje-shader-snippets",
-    "displayName": "Code Snippets for MCJE Shaders",
-    "description": "Provides code snippets for Minecraft Java Edition shaderpack development",
+    "name": "minecraft-shaders-devtools",
+    "displayName": "Minecraft Shaders DevTools",
+    "description": "Provides code snippets and more features for Minecraft shaderpack development",
     "version": "0.0.1",
     "publisher": "HyperCol",
     "categories": [
@@ -10,15 +10,15 @@
     ],
     "license": "LICENSE",
     "bugs": {
-        "url": "https://github.com/HyperCol/mcje-shader-snippets/issues"
+        "url": "https://github.com/HyperCol/Minecraft-Shaders-DevTools/issues"
     },
     "engines": {
         "vscode": "^1.46.0"
     },
-    "homepage": "https://github.com/HyperCol/mcje-shader-snippets",
+    "homepage": "https://github.com/HyperCol/Minecraft-Shaders-DevTools",
     "repository": {
         "type": "git",
-        "url": "https://github.com/HyperCol/mcje-shader-snippets.git"
+        "url": "https://github.com/HyperCol/Minecraft-Shaders-DevTools.git"
     },
     "keywords": [
         "shader",
@@ -30,7 +30,7 @@
         "snippets": [
             {
                 "language": "glsl",
-                "path": "./snippets/mcje-shader-snippets.json"
+                "path": "./snippets/mc-shader-snippets.json"
             }
         ]
     },

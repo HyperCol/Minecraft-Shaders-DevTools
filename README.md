@@ -1,8 +1,8 @@
-# Code Snippets for MCJE Shaders
+# Minecraft Shaders DevTools
 
-## mcje-shader-snippets
+## minecraft-shaders-devtools
 
-mcje-shader-snippets is a vecode extension that provides lots of code snippets for Minecraft Java Edition shaderpack developing. It provides amlost all attributes, uniforms and macros in Optifine documention, makes shader developers write shader imports extreme quickly.
+minecraft-shaders-devtools is a vecode extension that provides lots of code snippets for Minecraft shaderpack developing. It provides amlost all attributes, uniforms and macros in Optifine documention, makes shader developers write shader imports extreme quickly.
 
 ## Dependencies
 
