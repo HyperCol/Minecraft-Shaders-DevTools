@@ -12,6 +12,7 @@
     "bugs": {
         "url": "https://github.com/HyperCol/Minecraft-Shaders-DevTools/issues"
     },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.46.0"
     },
