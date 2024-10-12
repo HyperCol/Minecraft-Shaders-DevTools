@@ -361,14 +361,14 @@
 		"body": ["uniform vec3 cameraPosition;"],
 		"description": "camera position in world space"
 	},
-	"minecraft.uniform.previouscameraPosition": {
-		"prefix": "previouscameraPosition",
-		"body": ["previouscameraPosition"],
+	"minecraft.uniform.previousCameraPosition": {
+		"prefix": "previouscCameraPosition",
+		"body": ["previousCameraPosition"],
 		"description": "last frame cameraPosition"
 	},
-	"minecraft.uniform.previouscameraPosition.full": {
-		"prefix": "uniform vec3 previouscameraPosition;",
-		"body": ["uniform vec3 previouscameraPosition;"],
+	"minecraft.uniform.previousCameraPosition.full": {
+		"prefix": "uniform vec3 previousCameraPosition;",
+		"body": ["uniform vec3 previousCameraPosition;"],
 		"description": "last frame cameraPosition"
 	},
 	"minecraft.uniform.gbufferModelView": {
